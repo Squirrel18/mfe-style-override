@@ -1,0 +1,13 @@
+$primary: #00FF99;
+
+.something {
+  color: $primary;
+}
+
+.container-fluid, footer {
+  background: $primary !important;
+}
+
+p, h1, h2, span, a {
+  color: white !important;
+}

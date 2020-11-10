@@ -1,0 +1,28 @@
+$primary: #F00;
+$contrast: #FFF;
+
+/*
+Check if this rule is added to the final bundle.
+*/
+.something {
+  color: $primary;
+}
+
+.container-fluid, footer {
+  background: $primary !important;
+}
+
+/*
+This is only to set all texts elements to white...
+*/
+* {
+  color: $contrast !important;
+}
+
+.course-header {
+  .user-dropdown {
+    .btn {
+      background: $primary;
+    }
+  }
+}

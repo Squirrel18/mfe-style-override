@@ -1,0 +1,22 @@
+{
+  "name": "mfe-style-override",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Squirrel18",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Squirrel18/mfe-style-override.git"
+  },
+  "keywords": [
+    "MFE"
+  ],
+  "bugs": {
+    "url": "https://github.com/Squirrel18/mfe-style-override/issues"
+  },
+  "homepage": "https://github.com/Squirrel18/mfe-style-override#readme",
+  "description": ""
+}
